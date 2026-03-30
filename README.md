@@ -12,15 +12,17 @@
 
 <section>
 
-<h2>🧠 Tecnologias que estou aprendendo</h2>
+<h2 align="center">🚀 Tecnologias</h2>
 
-<ul>
-  <li>PHP</li>
-  <li>HTML</li>
-  <li>CSS</li>
-  <li>JavaScript</li>
-  <li>MySQL</li>
-</ul>
+<p align="center">
+
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+</p>
 
 </section>
 
@@ -32,12 +34,11 @@
   <li>📌 Website em PHP com arquitetura MVC</li>
   <li>📌 Sistema de envio de e-mail com SMTP</li>
   <li>📌 Upload e manipulação de imagens em PHP</li>
-  <li>📌 Sistema de paginação de resultados</li>
 </ul>
 
 </section>
 
-## 🐍 Snake de contribuições
+
 
 ![snake gif](https://github.com/andersonvcamargo/andersonvcamargo/blob/output/github-contribution-grid-snake.svg)
 
