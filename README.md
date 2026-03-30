@@ -39,8 +39,8 @@
 </section>
 
 
+![Snake animation](https://raw.githubusercontent.com/andersonvcamargo/andersonvcamargo/output/github-contribution-grid-snake.svg)
 
-![snake gif](https://github.com/andersonvcamargo/andersonvcamargo/blob/output/github-contribution-grid-snake.svg)
 
 <p>
 <img src="https://komarev.com/ghpvc/?username=andersonvcamargo&color=blue" alt="Profile views"/>
@@ -48,6 +48,8 @@
 
 
 <!--
+![snake gif](https://github.com/andersonvcamargo/andersonvcamargo/blob/output/github-contribution-grid-snake.svg)
+
 **andersonvcamargo/andersonvcamargo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
